@@ -1,0 +1,22 @@
+{
+  "name": "vare",
+  "displayName": "vare",
+  "description": "Theme that i like",
+  "publisher": "varog-norman",
+  "version": "0.3.0",
+  "engines": {
+    "vscode": "^1.35.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "vare",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vare-color-theme.json"
+      }
+    ]
+  }
+}
