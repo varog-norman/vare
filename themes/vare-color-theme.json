@@ -332,7 +332,11 @@
 		},
 		{
 			"scope": [
+        "variable",
+        "variables",
+				"variable.other",
 				"variable.other.constant",
+				"variable.other.property",
 				"variable.parameter",
 				"variable.other.readwrite",
 				"meta.object-literal.key",
@@ -350,7 +354,8 @@
 				"meta.decorator variable.other.property"
 			],
 			"settings": {
-				"foreground": "#88c6be"
+        "foreground": "#88c6be",
+        "fontStyle": ""
 			}
 		},
 		{
