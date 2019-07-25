@@ -350,9 +350,6 @@
 			"scope": [
 				"keyword.operator",
 				"punctuation.terminator.statement",
-				"meta.decorator variable.other.readwrite",
-				"meta.decorator variable.other.object",
-				"meta.decorator variable.other.property"
 			],
 			"settings": {
         "foreground": "#88c6be",
