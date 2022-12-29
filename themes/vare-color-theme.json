@@ -596,7 +596,7 @@
     {
       "name": "Comments",
       "scope": "comment",
-      "settings": { "foreground": "#BBBBBB4D", "fontStyle": "" }
+      "settings": { "foreground": "#99999999", "fontStyle": "" }
     },
     { "name": "Constants", "scope": "constant", "settings": { "foreground": "#F09483E6" } },
     {
@@ -782,6 +782,13 @@
       "name": "Markup list punctuation",
       "scope": "punctuation.definition.list",
       "settings": { "foreground": "#F09483E6" }
+    },
+    {
+      "name": "support.constant.property",
+      "scope": "support.constant.property",
+      "settings": {
+        "foreground": "#E95678E6"
+      }
     }
   ]
 }
