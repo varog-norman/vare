@@ -761,7 +761,7 @@
     {
       "name": "Tag brackets",
       "scope": "punctuation.definition.tag",
-      "settings": { "foreground": "#25B0BCE6" }
+      "settings": { "foreground": "#E95678E6" }
     },
     {
       "name": "Key/value separators",
