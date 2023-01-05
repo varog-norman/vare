@@ -5,7 +5,7 @@
 	"colors": {
     "activityBarBadge.background": "#007acc",
     "editor.background": "#252526",
-    "editor.foreground": "#d4d4d4",
+    "editor.foreground": "#BBBBBB",
     "editor.inactiveSelectionBackground": "#3a3d41",
     "editor.selectionHighlightBackground": "#add6ff26",
     "editorIndentGuide.activeBackground": "#707070",
@@ -229,7 +229,7 @@
     "editorSuggestWidget.background": "#252526",
     "editorSuggestWidget.border": "#454545",
     "editorSuggestWidget.focusHighlightForeground": "#2aaaff",
-    "editorSuggestWidget.foreground": "#d4d4d4",
+    "editorSuggestWidget.foreground": "#BBBBBB",
     "editorSuggestWidget.highlightForeground": "#2aaaff",
     "editorSuggestWidget.selectedBackground": "#04395e",
     "editorSuggestWidget.selectedForeground": "#ffffff",
